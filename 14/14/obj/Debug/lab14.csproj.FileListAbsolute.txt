@@ -1,0 +1,11 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\bin\Debug\lab14.exe.config
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\bin\Debug\lab14.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\bin\Debug\lab14.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.csproj.AssemblyReference.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.Form1.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\14\14\obj\Debug\lab14.pdb
